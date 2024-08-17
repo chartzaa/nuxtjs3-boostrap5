@@ -4,10 +4,10 @@ Nuxtjs 3
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 Bootstrap 5.3.3
-Look at the [Bootstrap 5.3.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)to learn more.
+Look at the [Bootstrap 5.3.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/) to learn more.
 
 bootstrap-icons 1.11
-Look at the [Bootstrap Icon 1.11](https://icons.getbootstrap.com/)to learn more.
+Look at the [Bootstrap Icon 1.11](https://icons.getbootstrap.com/) to learn more.
 
 ## Setup
 
